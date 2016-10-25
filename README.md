@@ -1,22 +1,15 @@
-# logo
+# Artwork
 
-All the logo I have drawn
-
-## doc-viewer
-
-https://github.com/at15/doc-viewer
-
-![doc-viewer](png/doc-viewer.png)
-
-## ring
-
-https://github.com/dyweb/ring
-
-![ring](png/ring.png)
-
-## postman
+- [logo](logo)
+- [wallpaper](wallpaper)
 
 
-https://github.com/dyweb/postman
+## License
 
-![postman](png/postman.png)
+<!-- TODO: creative common cc might be better -->
+MIT
+
+## Acknowledgement
+
+- I spent most of my weekends in primary school with my teacher 牛犇 on drawing, and I learned sketch and water painting and some oil painting.
+- I have minor major in animation back in Shanghai Jiao Tong University, the faculty members are really nice, especially teacher Wu.
