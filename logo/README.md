@@ -36,11 +36,19 @@ All the logo I have drawn
 
 Most of my grad school projects are related with time series database, Xephon comes form anime RaXephon
 
+- [ ] TODO: reika https://github.com/xephonhq/tsdb-proxy-java/tree/master/ql
+
+![xephon-logo](xephonhq/xephon-logo.png)
+
 ### Xephon-B
 
-A time series benchmark framework, b stands for benchmark and berserker, wrote in CMPS232
+A time series benchmark framework, b stands for benchmark and berserker, wrote in CMPS232. Worked with [@czheo](https://github.com/czheo)
 
 - https://github.com/xephonhq/xephon-b
+
+![xephon-b-landing](xephonhq/xephon-b-landing.png)
+
+The newer version using Painter Essential
 
 ![xephon-b](xephonhq/xephon-b.png)
 
