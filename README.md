@@ -1,15 +1,15 @@
 # Artwork
 
+Stuff I have drawn for course and side projects
+
 - [logo](logo)
 - [wallpaper](wallpaper)
 
-
 ## License
 
-<!-- TODO: creative common cc might be better -->
-MIT
+GPL v3
 
 ## Acknowledgement
 
-- I spent most of my weekends in primary school with my teacher 牛犇 on drawing, and I learned sketch and water painting and some oil painting.
-- I have minor major in animation back in Shanghai Jiao Tong University, the faculty members are really nice, especially teacher Wu.
+- I spent most of my weekends in primary school with my teacher 牛犇 on drawing, where I learned sketch and water painting, some oil painting as well.
+- Back in Shanghai Jiao Tong University, I had a minor major in animation, the faculty members are really nice, especially teacher Wu, though I never really finished my undergrad thesis for animation.
